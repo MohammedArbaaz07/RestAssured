@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15396" started-at="2021-12-01T11:47:22 IST" finished-at="2021-12-01T11:47:37 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15396" started-at="2021-12-01T11:47:22 IST" finished-at="2021-12-01T11:47:37 IST">
+      <class name="APITest.Demo_TestNG">
+        <test-method status="PASS" signature="creatboard()[pri:0, instance:APITest.Demo_TestNG@136e637]" name="creatboard" duration-ms="4502" started-at="2021-12-01T11:47:22 IST" finished-at="2021-12-01T11:47:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatboard -->
+        <test-method status="PASS" signature="getboard()[pri:1, instance:APITest.Demo_TestNG@136e637]" name="getboard" duration-ms="545" started-at="2021-12-01T11:47:26 IST" finished-at="2021-12-01T11:47:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getboard -->
+        <test-method status="PASS" signature="deleteboard()[pri:2, instance:APITest.Demo_TestNG@136e637]" name="deleteboard" duration-ms="961" started-at="2021-12-01T11:47:27 IST" finished-at="2021-12-01T11:47:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteboard -->
+      </class> <!-- APITest.Demo_TestNG -->
+      <class name="APITest.eCommerce">
+        <test-method status="PASS" signature="login()[pri:1, instance:APITest.eCommerce@173813a]" name="login" duration-ms="4106" started-at="2021-12-01T11:47:28 IST" finished-at="2021-12-01T11:47:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="get()[pri:2, instance:APITest.eCommerce@173813a]" name="get" duration-ms="3246" started-at="2021-12-01T11:47:32 IST" finished-at="2021-12-01T11:47:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="delete()[pri:3, instance:APITest.eCommerce@173813a]" name="delete" duration-ms="1913" started-at="2021-12-01T11:47:35 IST" finished-at="2021-12-01T11:47:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- APITest.eCommerce -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
